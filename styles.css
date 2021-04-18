@@ -9,6 +9,7 @@ p {
 .card {
   width: 25rem;
   text-align: center;
+  border-style: none;
 }
 
 .card-text {
