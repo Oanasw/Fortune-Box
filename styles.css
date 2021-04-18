@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+.card {
+  width: 30rem;
+  text-align: center;
+}
+
+.card-text {
+  color: orange;
+  font-size: 2rem; 
+}
